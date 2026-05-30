@@ -70,8 +70,19 @@ To replace traditional manual clearance systems with a faster, secure, and effic
 
 ---
 
+# 💻 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,javascript,html,css,bootstrap,nodejs,express,mysql,mongodb,git,github,postman,vscode" />
+
+</div>
+
+---
+
 # 📚 Currently Learning
 
+```txt id="4zj2kr"
 ⚛️ Advanced React Architecture
 ☁️ Cloud & AWS
 🧠 AI-powered Web Applications
